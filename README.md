@@ -15,7 +15,7 @@
       - **nodemcu-v2** ![nodemcu-v2](https://raw.githubusercontent.com/Pcore20/NETPIE-Smartplug/beta-1/IMG/node-mcuv2-001.jpeg)
       - **Relay 1-2Chanel** ![plug](https://raw.githubusercontent.com/Pcore20/NETPIE-Smartplug/beta-1/IMG/relay%202channel.jpeg)
       - **Plug** ![plug](https://raw.githubusercontent.com/Pcore20/NETPIE-Smartplug/beta-1/IMG/plug.jpeg)
-      - ** Flowchart - Connect the circuit On IMG Folder // ผังงานและการต่อวงจรดูได้ในโฟเดอร์ IMG **
+      - **Flowchart - Connect the circuit On IMG Folder // ผังงานและการต่อวงจรดูได้ในโฟเดอร์ IMG**
     
 
  
