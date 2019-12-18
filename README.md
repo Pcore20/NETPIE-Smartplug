@@ -1,6 +1,6 @@
 ***Edit File***
 - first register on netpie.io and create app // สมัครสมาชิกที่ netpie.io และสร้างแอป 
-- **Index.html**
+- **Index.html** // Inside HTML5 Folder
    - 196 APPKEY const APPKEY = """;
     - 197 APPSECRET const APPSECRET = "";
      - 198 APPID const APPID = "";
