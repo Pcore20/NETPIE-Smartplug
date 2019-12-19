@@ -10,7 +10,7 @@
       - 10 const char* password = "";
        - 12 #define APPID       ""
         - 13 #define GEARKEY     ""
-         - 14 #define GEARSECRET  ""
+        - 14 #define GEARSECRET  ""
 
  
 
